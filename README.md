@@ -1,6 +1,6 @@
-# AI News Summarizer
+# Rewrite AI
 
-A full-stack application that uses AI to summarize news articles and long text content.
+A full-stack application that uses AI to rewrite and summarize text content with intelligent processing powered by LangChain.
 
 ## Features
 
