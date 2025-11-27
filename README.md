@@ -92,7 +92,7 @@ A full-stack application that uses AI to rewrite and summarize text content with
     {
       "summary": "generated summary",
       "method": "langchain_stuff" | "langchain_map_reduce",
-      "chunks_processed": 3  // Only for map_reduce method
+      "chunks_processed": 3 
     }
     ```
   
